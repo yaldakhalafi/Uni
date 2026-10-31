@@ -1,1 +1,1 @@
-print("Safhe Asli")
+print("Safhe Daneshjoo ha")
