@@ -1,1 +1,1 @@
-print("Safhe Gozaresh Haye Pardakht)
+print("Safhe Gozaresh Haye Pardakht")
